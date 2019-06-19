@@ -991,5 +991,5 @@ export const countries = [
     { name: 'Zambia', code: 'ZM' },
     { name: 'Zimbabwe', code: 'ZW' }
 ];
-
-export const categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'];
+ 
+export const categories = ['all', 'business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'];
